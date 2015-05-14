@@ -1,0 +1,885 @@
+[
+    {
+        "Code": "BD",
+        "Hostility": "0",
+        "Name ": "Bangladesh"
+    },
+    {
+        "Code": "BE",
+        "Hostility": "0",
+        "Name ": "Belgium"
+    },
+    {
+        "Code": "BF",
+        "Hostility": "0",
+        "Name ": "Burkina Faso"
+    },
+    {
+        "Code": "BG",
+        "Hostility": "0",
+        "Name ": "Bulgaria"
+    },
+    {
+        "Code": "BA",
+        "Hostility": "0",
+        "Name ": "Bosnia and Herz."
+    },
+    {
+        "Code": "BN",
+        "Hostility": "0",
+        "Name ": "Brunei"
+    },
+    {
+        "Code": "BO",
+        "Hostility": "0",
+        "Name ": "Bolivia"
+    },
+    {
+        "Code": "JP",
+        "Hostility": "0",
+        "Name ": "Japan"
+    },
+    {
+        "Code": "BI",
+        "Hostility": "0",
+        "Name ": "Burundi"
+    },
+    {
+        "Code": "BJ",
+        "Hostility": "0",
+        "Name ": "Benin"
+    },
+    {
+        "Code": "BT",
+        "Hostility": "0",
+        "Name ": "Bhutan"
+    },
+    {
+        "Code": "JM",
+        "Hostility": "0",
+        "Name ": "Jamaica"
+    },
+    {
+        "Code": "BW",
+        "Hostility": "0",
+        "Name ": "Botswana"
+    },
+    {
+        "Code": "BR",
+        "Hostility": "0",
+        "Name ": "Brazil"
+    },
+    {
+        "Code": "BS",
+        "Hostility": "0",
+        "Name ": "Bahamas"
+    },
+    {
+        "Code": "BY",
+        "Hostility": "0",
+        "Name ": "Belarus"
+    },
+    {
+        "Code": "BZ",
+        "Hostility": "0",
+        "Name ": "Belize"
+    },
+    {
+        "Code": "RU",
+        "Hostility": "100",
+        "Name ": "Russia"
+    },
+    {
+        "Code": "RW",
+        "Hostility": "0",
+        "Name ": "Rwanda"
+    },
+    {
+        "Code": "RS",
+        "Hostility": "0",
+        "Name ": "Serbia"
+    },
+    {
+        "Code": "LT",
+        "Hostility": "0",
+        "Name ": "Lithuania"
+    },
+    {
+        "Code": "LU",
+        "Hostility": "0",
+        "Name ": "Luxembourg"
+    },
+    {
+        "Code": "LR",
+        "Hostility": "0",
+        "Name ": "Liberia"
+    },
+    {
+        "Code": "RO",
+        "Hostility": "0",
+        "Name ": "Romania"
+    },
+    {
+        "Code": "GW",
+        "Hostility": "0",
+        "Name ": "Guinea-Bissau"
+    },
+    {
+        "Code": "GT",
+        "Hostility": "0",
+        "Name ": "Guatemala"
+    },
+    {
+        "Code": "GR",
+        "Hostility": "0",
+        "Name ": "Greece"
+    },
+    {
+        "Code": "GQ",
+        "Hostility": "0",
+        "Name ": "Eq. Guinea"
+    },
+    {
+        "Code": "GY",
+        "Hostility": "0",
+        "Name ": "Guyana"
+    },
+    {
+        "Code": "GE",
+        "Hostility": "0",
+        "Name ": "Georgia"
+    },
+    {
+        "Code": "GB",
+        "Hostility": "0",
+        "Name ": "United Kingdom"
+    },
+    {
+        "Code": "GA",
+        "Hostility": "0",
+        "Name ": "Gabon"
+    },
+    {
+        "Code": "GN",
+        "Hostility": "0",
+        "Name ": "Guinea"
+    },
+    {
+        "Code": "GM",
+        "Hostility": "0",
+        "Name ": "Gambia"
+    },
+    {
+        "Code": "GL",
+        "Hostility": "0",
+        "Name ": "Greenland"
+    },
+    {
+        "Code": "KW",
+        "Hostility": "0",
+        "Name ": "Kuwait"
+    },
+    {
+        "Code": "GH",
+        "Hostility": "0",
+        "Name ": "Ghana"
+    },
+    {
+        "Code": "OM",
+        "Hostility": "0",
+        "Name ": "Oman"
+    },
+    {
+        "Code": "_1",
+        "Hostility": "0",
+        "Name ": "Somaliland"
+    },
+    {
+        "Code": "_0",
+        "Hostility": "60",
+        "Name ": "Kosovo"
+    },
+    {
+        "Code": "JO",
+        "Hostility": "0",
+        "Name ": "Jordan"
+    },
+    {
+        "Code": "HR",
+        "Hostility": "0",
+        "Name ": "Croatia"
+    },
+    {
+        "Code": "HT",
+        "Hostility": "0",
+        "Name ": "Haiti"
+    },
+    {
+        "Code": "HU",
+        "Hostility": "0",
+        "Name ": "Hungary"
+    },
+    {
+        "Code": "HN",
+        "Hostility": "0",
+        "Name ": "Honduras"
+    },
+    {
+        "Code": "PR",
+        "Hostility": "0",
+        "Name ": "Puerto Rico"
+    },
+    {
+        "Code": "PS",
+        "Hostility": "40",
+        "Name ": "Palestine"
+    },
+    {
+        "Code": "PT",
+        "Hostility": "0",
+        "Name ": "Portugal"
+    },
+    {
+        "Code": "PY",
+        "Hostility": "0",
+        "Name ": "Paraguay"
+    },
+    {
+        "Code": "PA",
+        "Hostility": "0",
+        "Name ": "Panama"
+    },
+    {
+        "Code": "PG",
+        "Hostility": "0",
+        "Name ": "Papua New Guinea"
+    },
+    {
+        "Code": "PE",
+        "Hostility": "0",
+        "Name ": "Peru"
+    },
+    {
+        "Code": "PK",
+        "Hostility": "50",
+        "Name ": "Pakistan"
+    },
+    {
+        "Code": "PH",
+        "Hostility": "0",
+        "Name ": "Philippines"
+    },
+    {
+        "Code": "PL",
+        "Hostility": "0",
+        "Name ": "Poland"
+    },
+    {
+        "Code": "-99",
+        "Hostility": "0",
+        "Name ": "N. Cyprus"
+    },
+    {
+        "Code": "ZM",
+        "Hostility": "0",
+        "Name ": "Zambia"
+    },
+    {
+        "Code": "EH",
+        "Hostility": "0",
+        "Name ": "W. Sahara"
+    },
+    {
+        "Code": "EE",
+        "Hostility": "0",
+        "Name ": "Estonia"
+    },
+    {
+        "Code": "EG",
+        "Hostility": "0",
+        "Name ": "Egypt"
+    },
+    {
+        "Code": "ZA",
+        "Hostility": "30",
+        "Name ": "South Africa"
+    },
+    {
+        "Code": "EC",
+        "Hostility": "0",
+        "Name ": "Ecuador"
+    },
+    {
+        "Code": "AL",
+        "Hostility": "0",
+        "Name ": "Albania"
+    },
+    {
+        "Code": "AO",
+        "Hostility": "0",
+        "Name ": "Angola"
+    },
+    {
+        "Code": "KZ",
+        "Hostility": "0",
+        "Name ": "Kazakhstan"
+    },
+    {
+        "Code": "ET",
+        "Hostility": "20",
+        "Name ": "Ethiopia"
+    },
+    {
+        "Code": "ZW",
+        "Hostility": "20",
+        "Name ": "Zimbabwe"
+    },
+    {
+        "Code": "ES",
+        "Hostility": "0",
+        "Name ": "Spain"
+    },
+    {
+        "Code": "ER",
+        "Hostility": "0",
+        "Name ": "Eritrea"
+    },
+    {
+        "Code": "ME",
+        "Hostility": "0",
+        "Name ": "Montenegro"
+    },
+    {
+        "Code": "MD",
+        "Hostility": "0",
+        "Name ": "Moldova"
+    },
+    {
+        "Code": "MG",
+        "Hostility": "0",
+        "Name ": "Madagascar"
+    },
+    {
+        "Code": "MA",
+        "Hostility": "40",
+        "Name ": "Morocco"
+    },
+    {
+        "Code": "UZ",
+        "Hostility": "40",
+        "Name ": "Uzbekistan"
+    },
+    {
+        "Code": "MM",
+        "Hostility": "0",
+        "Name ": "Myanmar"
+    },
+    {
+        "Code": "ML",
+        "Hostility": "0",
+        "Name ": "Mali"
+    },
+    {
+        "Code": "MN",
+        "Hostility": "0",
+        "Name ": "Mongolia"
+    },
+    {
+        "Code": "MK",
+        "Hostility": "0",
+        "Name ": "Macedonia"
+    },
+    {
+        "Code": "MW",
+        "Hostility": "0",
+        "Name ": "Malawi"
+    },
+    {
+        "Code": "MR",
+        "Hostility": "0",
+        "Name ": "Mauritania"
+    },
+    {
+        "Code": "UG",
+        "Hostility": "0",
+        "Name ": "Uganda"
+    },
+    {
+        "Code": "MY",
+        "Hostility": "0",
+        "Name ": "Malaysia"
+    },
+    {
+        "Code": "MX",
+        "Hostility": "0",
+        "Name ": "Mexico"
+    },
+    {
+        "Code": "VU",
+        "Hostility": "0",
+        "Name ": "Vanuatu"
+    },
+    {
+        "Code": "FR",
+        "Hostility": "0",
+        "Name ": "France"
+    },
+    {
+        "Code": "FI",
+        "Hostility": "0",
+        "Name ": "Finland"
+    },
+    {
+        "Code": "FJ",
+        "Hostility": "0",
+        "Name ": "Fiji"
+    },
+    {
+        "Code": "FK",
+        "Hostility": "0",
+        "Name ": "Falkland Is."
+    },
+    {
+        "Code": "NI",
+        "Hostility": "0",
+        "Name ": "Nicaragua"
+    },
+    {
+        "Code": "NL",
+        "Hostility": "0",
+        "Name ": "Netherlands"
+    },
+    {
+        "Code": "NO",
+        "Hostility": "0",
+        "Name ": "Norway"
+    },
+    {
+        "Code": "NA",
+        "Hostility": "0",
+        "Name ": "Namibia"
+    },
+    {
+        "Code": "NC",
+        "Hostility": "0",
+        "Name ": "New Caledonia"
+    },
+    {
+        "Code": "NE",
+        "Hostility": "0",
+        "Name ": "Niger"
+    },
+    {
+        "Code": "NG",
+        "Hostility": "0",
+        "Name ": "Nigeria"
+    },
+    {
+        "Code": "NZ",
+        "Hostility": "0",
+        "Name ": "New Zealand"
+    },
+    {
+        "Code": "NP",
+        "Hostility": "0",
+        "Name ": "Nepal"
+    },
+    {
+        "Code": "CI",
+        "Hostility": "0",
+        "Name ": "Côte d'Ivoire"
+    },
+    {
+        "Code": "CH",
+        "Hostility": "0",
+        "Name ": "Switzerland"
+    },
+    {
+        "Code": "CO",
+        "Hostility": "0",
+        "Name ": "Colombia"
+    },
+    {
+        "Code": "CN",
+        "Hostility": "0",
+        "Name ": "China"
+    },
+    {
+        "Code": "CM",
+        "Hostility": "0",
+        "Name ": "Cameroon"
+    },
+    {
+        "Code": "CL",
+        "Hostility": "0",
+        "Name ": "Chile"
+    },
+    {
+        "Code": "CA",
+        "Hostility": "0",
+        "Name ": "Canada"
+    },
+    {
+        "Code": "CG",
+        "Hostility": "0",
+        "Name ": "Congo"
+    },
+    {
+        "Code": "CF",
+        "Hostility": "0",
+        "Name ": "Central African Rep."
+    },
+    {
+        "Code": "CD",
+        "Hostility": "0",
+        "Name ": "Dem. Rep. Congo"
+    },
+    {
+        "Code": "CZ",
+        "Hostility": "0",
+        "Name ": "Czech Rep."
+    },
+    {
+        "Code": "CY",
+        "Hostility": "0",
+        "Name ": "Cyprus"
+    },
+    {
+        "Code": "CR",
+        "Hostility": "0",
+        "Name ": "Costa Rica"
+    },
+    {
+        "Code": "CU",
+        "Hostility": "30",
+        "Name ": "Cuba"
+    },
+    {
+        "Code": "SZ",
+        "Hostility": "0",
+        "Name ": "Swaziland"
+    },
+    {
+        "Code": "SY",
+        "Hostility": "100",
+        "Name ": "Syria"
+    },
+    {
+        "Code": "KG",
+        "Hostility": "0",
+        "Name ": "Kyrgyzstan"
+    },
+    {
+        "Code": "KE",
+        "Hostility": "0",
+        "Name ": "Kenya"
+    },
+    {
+        "Code": "SS",
+        "Hostility": "0",
+        "Name ": "S. Sudan"
+    },
+    {
+        "Code": "SR",
+        "Hostility": "0",
+        "Name ": "Suriname"
+    },
+    {
+        "Code": "KH",
+        "Hostility": "0",
+        "Name ": "Cambodia"
+    },
+    {
+        "Code": "SV",
+        "Hostility": "40",
+        "Name ": "El Salvador"
+    },
+    {
+        "Code": "SK",
+        "Hostility": "0",
+        "Name ": "Slovakia"
+    },
+    {
+        "Code": "KR",
+        "Hostility": "0",
+        "Name ": "Korea"
+    },
+    {
+        "Code": "SI",
+        "Hostility": "0",
+        "Name ": "Slovenia"
+    },
+    {
+        "Code": "KP",
+        "Hostility": "100",
+        "Name ": "Dem. Rep. Korea"
+    },
+    {
+        "Code": "SO",
+        "Hostility": "40",
+        "Name ": "Somalia"
+    },
+    {
+        "Code": "SN",
+        "Hostility": "0",
+        "Name ": "Senegal"
+    },
+    {
+        "Code": "SL",
+        "Hostility": "40",
+        "Name ": "Sierra Leone"
+    },
+    {
+        "Code": "SB",
+        "Hostility": "0",
+        "Name ": "Solomon Is."
+    },
+    {
+        "Code": "SA",
+        "Hostility": "70",
+        "Name ": "Saudi Arabia"
+    },
+    {
+        "Code": "SE",
+        "Hostility": "0",
+        "Name ": "Sweden"
+    },
+    {
+        "Code": "SD",
+        "Hostility": "40",
+        "Name ": "Sudan"
+    },
+    {
+        "Code": "DO",
+        "Hostility": "0",
+        "Name ": "Dominican Rep."
+    },
+    {
+        "Code": "DJ",
+        "Hostility": "0",
+        "Name ": "Djibouti"
+    },
+    {
+        "Code": "DK",
+        "Hostility": "0",
+        "Name ": "Denmark"
+    },
+    {
+        "Code": "DE",
+        "Hostility": "0",
+        "Name ": "Germany"
+    },
+    {
+        "Code": "YE",
+        "Hostility": "0",
+        "Name ": "Yemen"
+    },
+    {
+        "Code": "AT",
+        "Hostility": "0",
+        "Name ": "Austria"
+    },
+    {
+        "Code": "DZ",
+        "Hostility": "0",
+        "Name ": "Algeria"
+    },
+    {
+        "Code": "US",
+        "Hostility": "0",
+        "Name ": "United States"
+    },
+    {
+        "Code": "LV",
+        "Hostility": "0",
+        "Name ": "Latvia"
+    },
+    {
+        "Code": "UY",
+        "Hostility": "0",
+        "Name ": "Uruguay"
+    },
+    {
+        "Code": "LB",
+        "Hostility": "40",
+        "Name ": "Lebanon"
+    },
+    {
+        "Code": "LA",
+        "Hostility": "0",
+        "Name ": "Lao PDR"
+    },
+    {
+        "Code": "TW",
+        "Hostility": "0",
+        "Name ": "Taiwan"
+    },
+    {
+        "Code": "TT",
+        "Hostility": "0",
+        "Name ": "Trinidad and Tobago"
+    },
+    {
+        "Code": "TR",
+        "Hostility": "0",
+        "Name ": "Turkey"
+    },
+    {
+        "Code": "LK",
+        "Hostility": "70",
+        "Name ": "Sri Lanka"
+    },
+    {
+        "Code": "TN",
+        "Hostility": "0",
+        "Name ": "Tunisia"
+    },
+    {
+        "Code": "TL",
+        "Hostility": "0",
+        "Name ": "Timor-Leste"
+    },
+    {
+        "Code": "TM",
+        "Hostility": "70",
+        "Name ": "Turkmenistan"
+    },
+    {
+        "Code": "TJ",
+        "Hostility": "80",
+        "Name ": "Tajikistan"
+    },
+    {
+        "Code": "LS",
+        "Hostility": "0",
+        "Name ": "Lesotho"
+    },
+    {
+        "Code": "TH",
+        "Hostility": "10",
+        "Name ": "Thailand"
+    },
+    {
+        "Code": "TF",
+        "Hostility": "0",
+        "Name ": "Fr. S. Antarctic Lands"
+    },
+    {
+        "Code": "TG",
+        "Hostility": "0",
+        "Name ": "Togo"
+    },
+    {
+        "Code": "TD",
+        "Hostility": "0",
+        "Name ": "Chad"
+    },
+    {
+        "Code": "LY",
+        "Hostility": "20",
+        "Name ": "Libya"
+    },
+    {
+        "Code": "AE",
+        "Hostility": "0",
+        "Name ": "United Arab Emirates"
+    },
+    {
+        "Code": "VE",
+        "Hostility": "0",
+        "Name ": "Venezuela"
+    },
+    {
+        "Code": "AF",
+        "Hostility": "100",
+        "Name ": "Afghanistan"
+    },
+    {
+        "Code": "IQ",
+        "Hostility": "100",
+        "Name ": "Iraq"
+    },
+    {
+        "Code": "IS",
+        "Hostility": "0",
+        "Name ": "Iceland"
+    },
+    {
+        "Code": "IR",
+        "Hostility": "100",
+        "Name ": "Iran"
+    },
+    {
+        "Code": "AM",
+        "Hostility": "0",
+        "Name ": "Armenia"
+    },
+    {
+        "Code": "IT",
+        "Hostility": "0",
+        "Name ": "Italy"
+    },
+    {
+        "Code": "VN",
+        "Hostility": "30",
+        "Name ": "Vietnam"
+    },
+    {
+        "Code": "AR",
+        "Hostility": "0",
+        "Name ": "Argentina"
+    },
+    {
+        "Code": "AU",
+        "Hostility": "0",
+        "Name ": "Australia"
+    },
+    {
+        "Code": "IL",
+        "Hostility": "60",
+        "Name ": "Israel"
+    },
+    {
+        "Code": "IN",
+        "Hostility": "10",
+        "Name ": "India"
+    },
+    {
+        "Code": "TZ",
+        "Hostility": "0",
+        "Name ": "Tanzania"
+    },
+    {
+        "Code": "AZ",
+        "Hostility": "0",
+        "Name ": "Azerbaijan"
+    },
+    {
+        "Code": "IE",
+        "Hostility": "0",
+        "Name ": "Ireland"
+    },
+    {
+        "Code": "ID",
+        "Hostility": "0",
+        "Name ": "Indonesia"
+    },
+    {
+        "Code": "UA",
+        "Hostility": "20",
+        "Name ": "Ukraine"
+    },
+    {
+        "Code": "QA",
+        "Hostility": "10",
+        "Name ": "Qatar"
+    },
+    {
+        "Code": "MZ",
+        "Hostility": "30",
+        "Name ": "Mozambique"
+    },
+    {
+        "Code": ""
+    }
+]
